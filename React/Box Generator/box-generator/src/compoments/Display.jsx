@@ -15,7 +15,7 @@ const Display = (props) => {
                        <h3>color</h3>
                 </div>
             })
-        } }
+        } 
 
         </fieldset>
     )
